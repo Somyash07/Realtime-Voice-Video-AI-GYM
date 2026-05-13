@@ -1,0 +1,47 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Database Files
+*.db
+data.db
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build / Distribution
+dist/
+build/
+
+# Temporary Files
+temp/
+tmp/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# MediaPipe / Model Cache
+*.tflite
+*.task
+
+# Node Modules (if any frontend added later)
+node_modules/
